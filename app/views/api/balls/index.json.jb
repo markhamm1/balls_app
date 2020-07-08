@@ -1,0 +1,3 @@
+@balls.map do |ball|
+  render partial: 'ball.json.jb', locals: {ball: ball}
+end

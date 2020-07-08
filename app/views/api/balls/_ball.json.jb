@@ -1,0 +1,6 @@
+{
+  id: ball.id,
+  sport: ball.sport,
+  shape: ball.shape,
+  diameter: ball.diameter
+}

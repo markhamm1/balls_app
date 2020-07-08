@@ -1,0 +1,1 @@
+render partial: 'ball.json.jb', locals: {ball: @ball}
